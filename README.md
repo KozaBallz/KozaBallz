@@ -1,5 +1,5 @@
 # Hi theare, I'm Koza!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koza&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KozaBallz&show_icons=true&theme=github_dark)
 
 # THINGS I AM USING OR I HAD USED
 
